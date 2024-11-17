@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukeSW-85
 - 👀 I’m interested in coding, music, guitars, videogames
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning Data Engineering skills and tools
 - 💞️ I’m looking to collaborate on small projects to learn coding logic
 - 📫 How to reach me ...
 
